@@ -1,4 +1,5 @@
 Ayurvedic-Themed Login & Signup Page
+
 A modern, responsive login and registration page designed with HTML, CSS, and JavaScript. This project showcases a creative UI with an ayurvedic aesthetic, including smooth animations and a user-friendly experience.
 
 Features
