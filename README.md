@@ -3,11 +3,17 @@ Ayurvedic-Themed Login & Signup Page
 A modern, responsive login and registration page designed with HTML, CSS, and JavaScript. This project showcases a creative UI with an ayurvedic aesthetic, including smooth animations and a user-friendly experience.
 
 Features
+
 ✅ Beautiful UI Design – Aesthetic ayurvedic theme with a soft green color palette.
+
 ✅ Responsive Layout – Optimized for all devices, including desktops, tablets, and mobiles.
+
 ✅ Flip Card Animation – A seamless transition between the login and signup forms.
+
 ✅ Interactive Elements – Animated form inputs, hover effects, and smooth UI transitions.
+
 ✅ Swiper.js Integration – Supports image slideshows for enhanced user engagement.
+
 ✅ JavaScript Functionality – Handles navigation toggles, scroll indicators, and dynamic UI interactions.
 
 Technologies Used
