@@ -11,18 +11,27 @@ Features
 ✅ JavaScript Functionality – Handles navigation toggles, scroll indicators, and dynamic UI interactions.
 
 Technologies Used
+
 HTML5 – Structuring the page with semantic elements.
+
 CSS3 – Styling with modern design techniques, including Flexbox and animations.
+
 JavaScript (ES6) – Adding interactive functionality for navigation, scrolling, and form switching.
+
 Swiper.js – Implementing an elegant image slider.
+
 FontAwesome – Using icons for improved UI elements.
 
 🚀 Live Demo: https://ramesh8248.github.io/Ayurvedic-s_Landing_page/ayruvedha%20Landing%20website/index.html
 
 Future Enhancements
+
 🔹 Add backend integration with authentication (e.g., Firebase, Node.js).
+
 🔹 Implement validation and error handling for form inputs.
+
 🔹 Enhance animations and accessibility features.
 
 Contributions
+
 Feel free to fork this repository, submit issues, and make pull requests to enhance the project!
